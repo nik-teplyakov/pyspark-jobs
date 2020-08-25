@@ -1,4 +1,4 @@
-# spark-jobs
+# pyspark-jobs
 Some Spark and SparkML jobs examples (preprocess-train-predict)
 
 ### [Ru]
@@ -13,4 +13,4 @@ A small pipeline consisting of three pyspark jobs doing the following:
 2. **sparkml-fit.py**. Training the Random Forest regressor with hyperparameter tuning on cross-validation. Saving the whole model as a pipeline object.
 3. **sparkml-predict.py**. Usage of the ready-made pipeline for prediction on the unseen data.
 
-P.S. Intra-code comments are in Russian.
+**P.S.** Intra-code comments are in Russian.
